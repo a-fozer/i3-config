@@ -20,22 +20,6 @@
   <img src="https://img.shields.io/github/last-commit/LinuxNerdBTW/i3-MINI?color=deeppink&style=for-the-badge">
 </p>
 
-<!-- shields -->
-
-<p align="center">
-  <b> ~ Workflow Showcase On Youtube ~ </b>
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=reBTqKR8SM4" target="_blank" >
-    <img src="http://img.youtube.com/vi/reBTqKR8SM4/mqdefault.jpg" width="560" height="315" alt="Watch the video" border="5" />
-   
-  </a>
-</p>
-
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLinuxNerdBTW%2Fi3-MINI&count_bg=%2379C83D&title_bg=%23555555&icon=darkreader.svg&icon_color=%2300FFDE&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### APPS [ Make sure u have installed this ]
 
